@@ -27,7 +27,7 @@ jobs:
       - name: Build
         run: |
           cd www
-          hugo serve --theme changelog-theme
+          hugo --theme changelog-theme
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
