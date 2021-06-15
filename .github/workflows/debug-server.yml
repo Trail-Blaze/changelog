@@ -1,9 +1,6 @@
 name: Debug Server
 
-on:
-  push:
-    branches:
-      - main  # Set a branch to deploy
+on: workflow_dispatch
 
 jobs:
   deploy:
