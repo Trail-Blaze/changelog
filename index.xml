@@ -13,7 +13,7 @@
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
       <guid>/released/1/</guid>
-      <description> fixedKeep end tags addedFix permissions when creating new folders fixedFix handling of taxonomy terms containing slashes  </description>
+      <description> fixed Keep end tags added Fix permissions when creating new folders fixed Fix handling of taxonomy terms containing slashes  </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
       <guid>/experimental/ex/</guid>
-      <description> addedAdd a test for template variable overwrite changedUpdate to Go 1.11  </description>
+      <description> added Add a test for template variable overwrite changed Update to Go 1.11  </description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
       <guid>/experimental/ex2/</guid>
-      <description> fixedSpace between ul elements performanceIt is now 1337 times faster  </description>
+      <description> fixed Space between ul elements performance It is now 1337 times faster  </description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
       <guid>/released/2/</guid>
-      <description> fixedSkip installing postcss due to failure on build server  </description>
+      <description> fixed Skip installing postcss due to failure on build server  </description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
       <guid>/released/3/</guid>
-      <description> fixedFix .Site.Params case regression fixedDo not strip IE conditional statements  </description>
+      <description> fixed Fix .Site.Params case regression fixed Do not strip IE conditional statements  </description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
       <guid>/released/4/</guid>
-      <description> removedRemove unused files from Git, Perl, etc. addedAdd nodejs to allow PostCSS to work  </description>
+      <description> removed Remove unused files from Git, Perl, etc. added Add nodejs to allow PostCSS to work  </description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
       <guid>/released/15/</guid>
-      <description> addedAdd a test for template variable overwrite changedInclude language code in REF_NOT_FOUND errors fixedImprove minifier MIME type resolution deprecatedSet GO111MODULE=on for mage install removedAdd instruction to install PostCSS when missing securityUpdate snapcraft build config to Go 1.11  </description>
+      <description> added Add a test for template variable overwrite changed Include language code in REF_NOT_FOUND errors fixed Improve minifier MIME type resolution deprecated Set GO111MODULE=on for mage install removed Add instruction to install PostCSS when missing security Update snapcraft build config to Go 1.11  </description>
     </item>
     
     <item>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 02 Sep 2019 20:46:47 +0200</pubDate>
       
       <guid>/released/16/</guid>
-      <description> addedMultiline entry:  Section 1 Section 2  Sub-section 1 Sub-section 2     changedInclude language code in REF_NOT_FOUND errors  </description>
+      <description> added Multiline entry:  Section 1 Section 2  Sub-section 1 Sub-section 2     changed Include language code in REF_NOT_FOUND errors  </description>
     </item>
     
     <item>
