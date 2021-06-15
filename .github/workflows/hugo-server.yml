@@ -21,16 +21,11 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: CD Into Build Directory
-        run: cd www
-        
       - name: Build
-        run: |
-          cd www
-          hugo --theme changelog-theme
+        run: hugo --theme changelog-theme
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./www
+          publish_dir: ./public
