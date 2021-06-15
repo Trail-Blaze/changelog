@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/released/1/</loc>
+    <loc>/released/1/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/experimental/ex/</loc>
+    <loc>/experimental/ex/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/experimental/ex2/</loc>
+    <loc>/experimental/ex2/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/released/2/</loc>
+    <loc>/released/2/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/released/3/</loc>
+    <loc>/released/3/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/released/4/</loc>
+    <loc>/released/4/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/released/15/</loc>
+    <loc>/released/15/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/released/16/</loc>
+    <loc>/released/16/</loc>
     <lastmod>2019-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/released/</loc>
+    <loc>/released/</loc>
     <lastmod>2019-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/deprecated/depr/</loc>
+    <loc>/deprecated/depr/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/deprecated/depr2/</loc>
+    <loc>/deprecated/depr2/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/deprecated/</loc>
+    <loc>/deprecated/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/experimental/</loc>
+    <loc>/experimental/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
