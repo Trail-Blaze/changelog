@@ -1,6 +1,14 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
 <ul class="pagination">
+    
+    <!---- TEST_START --->
+    
+    <li class="page-item{{ if not $pag.HasPrev }} disabled{{ end }}">
+    <a href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" class="page-link" aria-label="Previous"><span aria-hidden="true">TEST</span></a>
+    </li>
+    
+    <!---- TEST_END --->
     <li class="page-item{{ if not $pag.HasPrev }} disabled{{ end }}">
     <a href="/changelog{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" class="page-link" aria-label="Previous"><span aria-hidden="true">Prev</span></a>
     </li>
