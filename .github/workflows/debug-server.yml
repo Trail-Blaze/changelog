@@ -21,14 +21,14 @@ jobs:
       - name: CD Into Build Directory
         run: cd www
         
-      - name: Build
-        run: hugo serve --theme changelog-theme
+    #  - name: Build
+    #    run: hugo serve --theme changelog-theme
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./www
+    #  - name: Deploy
+    #    uses: peaceiris/actions-gh-pages@v3
+    #    with:
+    #      github_token: ${{ secrets.GITHUB_TOKEN }}
+    #      publish_dir: ./www
       - name: Downloading Ngrok.
         run: |
            Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
