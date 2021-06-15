@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimentals on Hugo Changelog</title>
+    <link>/experimental/</link>
+    <description>Recent content in Experimentals on Hugo Changelog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Sep 2018 20:46:47 +0200</lastBuildDate><atom:link href="/experimental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(2018-09-15)</title>
+      <link>/experimental/ex/</link>
+      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
+      
+      <guid>/experimental/ex/</guid>
+      <description> added Add a test for template variable overwrite changed Update to Go 1.11  </description>
+    </item>
+    
+    <item>
+      <title>(2018-09-15)</title>
+      <link>/experimental/ex2/</link>
+      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
+      
+      <guid>/experimental/ex2/</guid>
+      <description> fixed Space between ul elements performance It is now 1337 times faster  </description>
+    </item>
+    
+  </channel>
+</rss>
