@@ -1,10 +1,10 @@
 ---
-title: "(2018-09-15)"
-date: 2018-09-02T20:46:47+02:00
+title: "(2021-04-20)"
+date: 2021-04-20
 weight: 1
-version:
+version: v1.328-alpha
 ---
 
-- {{< tag added >}} Add a test for template variable overwrite
-- {{< tag changed >}} `Update to Go` 1.11
-
+- {{< tag added >}} Added base `api.js`
+- {{< tag added >}} Added `oauth.js`
+- {{< tag added >}} Added base rules to hotfix files
