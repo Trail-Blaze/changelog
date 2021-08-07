@@ -1,64 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Releaseds on Hugo Changelog</title>
+    <title>Releaseds on Blaze Changelog</title>
     <link>/released/</link>
-    <description>Recent content in Releaseds on Hugo Changelog</description>
+    <description>Recent content in Releaseds on Blaze Changelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2019 20:46:47 +0200</lastBuildDate><atom:link href="/released/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/released/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>(2018-08-15)</title>
+      <title>(2021-02-24)</title>
       <link>/released/1/</link>
-      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/released/1/</guid>
-      <description> fixed Keep end tags added Fix permissions when creating new folders fixed Fix handling of taxonomy terms containing slashes  </description>
+      <description> Initial Release  </description>
     </item>
     
     <item>
-      <title>(2018-08-17)</title>
-      <link>/released/2/</link>
-      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
+      <title>(2021-04-20)</title>
+      <link>/released/256/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/released/2/</guid>
-      <description> fixed Skip installing postcss due to failure on build server  </description>
-    </item>
-    
-    <item>
-      <title>Trusty Tahr</title>
-      <link>/released/3/</link>
-      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
-      
-      <guid>/released/3/</guid>
-      <description> fixed Fix .Site.Params case regression fixed Do not strip IE conditional statements  </description>
+      <guid>/released/256/</guid>
+      <description> added Added features and base  </description>
     </item>
     
     <item>
       <title></title>
-      <link>/released/4/</link>
+      <link>/released/306/</link>
       <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
       
-      <guid>/released/4/</guid>
-      <description> removed Remove unused files from Git, Perl, etc. added Add nodejs to allow PostCSS to work  </description>
+      <guid>/released/306/</guid>
+      <description> changed Patch up code with Neonite code temporarily  </description>
     </item>
     
     <item>
-      <title>Xenial Xerus</title>
-      <link>/released/15/</link>
-      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
+      <title>(2021-04-20)</title>
+      <link>/released/316-328/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/released/15/</guid>
-      <description> added Add a test for template variable overwrite changed Include language code in REF_NOT_FOUND errors fixed Improve minifier MIME type resolution deprecated Set GO111MODULE=on for mage install removed Add instruction to install PostCSS when missing security Update snapcraft build config to Go 1.11  </description>
+      <guid>/released/316-328/</guid>
+      <description> added Added all core modules added Added base rules to hotfix files added Edit Errors Library path to match Blaze&amp;rsquo;s file system removed Destroy Neonite Code  </description>
     </item>
     
     <item>
-      <title>Multiline example</title>
-      <link>/released/16/</link>
-      <pubDate>Mon, 02 Sep 2019 20:46:47 +0200</pubDate>
+      <title></title>
+      <link>/released/329/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/released/16/</guid>
-      <description> added Multiline entry:  Section 1 Section 2  Sub-section 1 Sub-section 2     changed Include language code in REF_NOT_FOUND errors  </description>
+      <guid>/released/329/</guid>
+      <description> fixed Fixed theme pack bug which disallowed changing of lobby themes  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/released/329-10/</link>
+      <pubDate>Sun, 02 Sep 2018 20:46:47 +0200</pubDate>
+      
+      <guid>/released/329-10/</guid>
+      <description> added Added install script - Anonymous  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/released/3410/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/released/3410/</guid>
+      <description> changed fixed Rerouted paths and fixed backend Zinx  </description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>/released/40/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/released/40/</guid>
+      <description> First stable release  </description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>/released/41/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/released/41/</guid>
+      <description> performance Improved error handling  </description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>/released/42/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/released/42/</guid>
+      <description> changed performance Sorted modules and separated api.js out into separate files  </description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>/released/43/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/released/43/</guid>
+      <description> fixed Made server print out request method instead of printing out useless information onto the console added changed Added Grayson Stowell to the authors  </description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>/released/413/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/released/413/</guid>
+      <description> added Added ASCII Logo to application  </description>
     </item>
     
   </channel>
