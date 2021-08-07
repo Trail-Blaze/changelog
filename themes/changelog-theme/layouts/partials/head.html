@@ -20,12 +20,12 @@
 
   <!-- RSS -->
   {{ with .OutputFormats.Get "rss" -}}
-    {{ printf `<link rel="%s" type="%s" href="https://trail-blaze.github.io %s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ printf `<link rel="%s" type="%s" href="https://trail-blaze.github.io/changelog%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
 
   {{ $scss := resources.Get "changelog.scss" }}
   {{ $style := $scss | resources.ToCSS | resources.Minify }}
-  <link rel="stylesheet" href="https://trail-blaze.github.io{{ $style.RelPermalink }}">
+  <link rel="stylesheet" href="https://trail-blaze.github.io/changelog{{ $style.RelPermalink }}">
 
   {{ range .Site.Params.customCSS -}}
     <link rel="stylesheet" href="{{ . | relURL }}">
