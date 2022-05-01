@@ -11,6 +11,9 @@
     <loc>/template_release/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/deprecated/1/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/released/256/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,17 +47,34 @@
     <loc>/released/413/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/released/425/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/released/426/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/released/427/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/released/428/</loc>
+  </url><url>
+    <loc>/experimental/otto/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/experimental/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/released/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/template_depr/</loc>
     <lastmod>2018-09-02T20:46:47+02:00</lastmod>
+  </url><url>
+    <loc>/deprecated/</loc>
+    <lastmod>2006-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/available_tags/</loc>
     <priority>0</priority>

@@ -6,7 +6,7 @@
     <description>Recent content in Experimentals on Blaze Changelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/experimental/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/experimental/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(2021-04-20)</title>
       <link>/experimental/ex/</link>
@@ -14,6 +14,15 @@
       
       <guid>/experimental/ex/</guid>
       <description> added Added base api.js added Added oauth.js added Added base rules to hotfix files  </description>
+    </item>
+    
+    <item>
+      <title>(2021-05-01)</title>
+      <link>/experimental/otto/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/experimental/otto/</guid>
+      <description> added New OttoLauncher Created added New Otto&amp;ldquo;Live&amp;rdquo; Launcher. Updates as soon as changes to the Github branch are staged.  </description>
     </item>
     
   </channel>

@@ -6,7 +6,7 @@
     <description>Recent content on Blaze Changelog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(2021-04-20)</title>
       <link>/experimental/ex/</link>
@@ -32,6 +32,15 @@
       
       <guid>/template_release/</guid>
       <description> Initial Release  </description>
+    </item>
+    
+    <item>
+      <title>Dynamite Core</title>
+      <link>/deprecated/1/</link>
+      <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/deprecated/1/</guid>
+      <description>Dynamite Core Will Be Removed Dynamite Core will be removed in a future release of Blaze and replaced/split up into two individual, separate backends.</description>
     </item>
     
     <item>
@@ -131,6 +140,51 @@
       
       <guid>/released/413/</guid>
       <description> added Added ASCII Logo to application  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/released/425/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/released/425/</guid>
+      <description> changed PATCH API AND FIX ERRORS [ ALEXDEV404 ]  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/released/426/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/released/426/</guid>
+      <description> fixed HOTFIX PATH IS NOT DEFINED - FIX [ ZINX ]  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/released/427/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/released/427/</guid>
+      <description> changed FRIENDS SUMMARY [ ALEXDEV404 ]  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/released/428/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/released/428/</guid>
+      <description> performance CHOICE OF PORT USING PORTFILE + APP.JS CODE REFLOW TO PREVENT RACE CONDITIONS [ ALEXDEV404 ] added &amp;ldquo;SAC&amp;rdquo; AFFILIATE API ADDITIONS + REWRITE [ SLUSHNIX ] 400 LINES NOW! [ ALEXDEV404 ] performance SIMPLIFY OAUTH.JS [ SLUSHNIX ]  </description>
+    </item>
+    
+    <item>
+      <title>(2021-05-01)</title>
+      <link>/experimental/otto/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/experimental/otto/</guid>
+      <description> added New OttoLauncher Created added New Otto&amp;ldquo;Live&amp;rdquo; Launcher. Updates as soon as changes to the Github branch are staged.  </description>
     </item>
     
     <item>
